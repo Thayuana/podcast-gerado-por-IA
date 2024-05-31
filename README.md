@@ -37,6 +37,12 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 - 🤖 1. Use os prompts de roteiro no `chagpt`
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
 - 🤖 3. Use os prompts de artes no `Léxica.Art`´
+- 🤖 4. OBSERVAÇÂO:Na live foi ultilizada IA   `MidJOurnney`  e ferramenta como   `Notion`
+ 
+  pode ficar à vontade para usar 😊
+ 
+- ![JordiBasteTv3GIF](https://github.com/Thayuana/podcast-gerado-por-IA/assets/170134813/93a58b1b-01e9-42f3-b97b-08cbc47b5c63)
+
 
     ⌨️ com 💜 por [Thayuana ( veja meu linkedin😊🚀)](www.linkedin.com/in/thayuanatrindade)
 
